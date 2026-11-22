@@ -22,7 +22,7 @@ Computer Engineer with **5+ years of experience** designing and building scalabl
 - 📍 Venezuela — open to remote opportunities worldwide.
 
 <details>
-<summary><b>🇪🇸 Versión en Español (Haz clic para desplegar)</b></summary>
+<summary><b>🇪🇸</b></summary>
 <br>
 
 Ingeniero de Computación con **+5 años de experiencia** diseñando y construyendo aplicaciones web escalables de extremo a extremo para proyectos internacionales en Europa y Latinoamérica.
