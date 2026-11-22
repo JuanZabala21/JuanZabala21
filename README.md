@@ -67,7 +67,7 @@ Ingeniero de Computación con **+5 años de experiencia** diseñando y construye
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO-GITHUB&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanZabala21&show_icons=true&theme=tokyonight&hide_border=true)
 !
 
 </div>
