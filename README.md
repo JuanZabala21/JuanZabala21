@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola, soy Juan Pablo Zabala 👋
+# Hi, I'm Juan Pablo Zabala 👋
 
 **Full-Stack Software Engineer | Frontend & Backend Architecture | AI Workflows**
 
@@ -12,18 +12,31 @@
 
 ---
 
-### 🚀 Sobre mí
+### 🚀 About Me
+
+Computer Engineer with **5+ years of experience** designing and building scalable end-to-end web applications for international projects across Europe and Latin America.
+
+- 🔭 Currently focused on **Full-Stack architecture** and integrating **AI / LLMs & Agents (MCP)** into development and product workflows.
+- 💻 Proven experience building complex UIs (**React, Angular, Vue.js**) and robust backend services (**Java Spring Boot, Node.js, Python**).
+- 🌐 Spanish (Native) | English (B2 Upper-Intermediate - EF SET Certified).
+- 📍 Venezuela — open to remote opportunities worldwide.
+
+<details>
+<summary><b>🇪🇸 Versión en Español (Haz clic para desplegar)</b></summary>
+<br>
 
 Ingeniero de Computación con **+5 años de experiencia** diseñando y construyendo aplicaciones web escalables de extremo a extremo para proyectos internacionales en Europa y Latinoamérica.
 
-- 🔭 Actualmente enfocado en arquitectura **Full-Stack** e integración de **IA / LLMs y agentes (MCP)** en flujos de desarrollo y producto.
-- 💻 Experiencia comprobada liderando interfaces complejas (**React, Angular, Vue.js**) y servicios robustos en el backend (**Java Spring Boot, Node.js, Python**).
-- 🌐 Español (Nativo) | Inglés (B2 Upper-Intermediate - EF SET Certified).
+- 🔭 Enfocado en arquitectura **Full-Stack** e integración de **IA / LLMs y agentes (MCP)** en flujos de desarrollo y producto.
+- 💻 Experiencia comprobada desarrollando interfaces complejas (**React, Angular, Vue.js**) y servicios robustos en el backend (**Java Spring Boot, Node.js, Python**).
+- 🌐 Español (Nativo) | Inglés (B2 Upper-Intermediate - Certificado EF SET).
 - 📍 Venezuela — disponible para trabajo remoto.
+
+</details>
 
 ---
 
-### 🛠️ Stack Tecnológico
+### 🛠️ Tech Stack / Stack Tecnológico
 
 #### **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -40,12 +53,10 @@ Ingeniero de Computación con **+5 años de experiencia** diseñando y construye
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-#### **Bases de Datos, DevOps & Testing**
+#### **Databases, DevOps & Testing**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
