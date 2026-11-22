@@ -17,18 +17,22 @@
 Computer Engineer with **5+ years of experience** designing and building scalable end-to-end web applications for international projects across Europe and Latin America.
 
 - 🔭 Currently focused on **Full-Stack architecture** and integrating **AI / LLMs & Agents (MCP)** into development and product workflows.
+- 🤖 Hands-on building **Model Context Protocol (MCP)** integrations, structured LLM outputs (**Pydantic / FastAPI**), and AI-accelerated engineering workflows (**Claude Code, GitHub Copilot**).
 - 💻 Proven experience building complex UIs (**React, Angular, Vue.js**) and robust backend services (**Java Spring Boot, Node.js, Python**).
+- 🏅 Certified in **MCP (Anthropic Academy)** & **Generative AI Fundamentals (Databricks)**.
 - 🌐 Spanish (Native) | English (B2 Upper-Intermediate - EF SET Certified).
 - 📍 Venezuela — open to remote opportunities worldwide.
 
 <details>
-<summary><b>🇪🇸</b></summary>
+<summary><b>🇪🇸 Leer en Español</b></summary>
 <br>
 
 Ingeniero de Computación con **+5 años de experiencia** diseñando y construyendo aplicaciones web escalables de extremo a extremo para proyectos internacionales en Europa y Latinoamérica.
 
 - 🔭 Enfocado en arquitectura **Full-Stack** e integración de **IA / LLMs y agentes (MCP)** en flujos de desarrollo y producto.
+- 🤖 Experiencia práctica construyendo integraciones con **Model Context Protocol (MCP)**, salidas estructuradas para LLMs (**Pydantic / FastAPI**) y flujos de ingeniería asistidos por IA (**Claude Code, GitHub Copilot**).
 - 💻 Experiencia comprobada desarrollando interfaces complejas (**React, Angular, Vue.js**) y servicios robustos en el backend (**Java Spring Boot, Node.js, Python**).
+- 🏅 Certificado en **MCP (Anthropic Academy)** y **Generative AI Fundamentals (Databricks)**.
 - 🌐 Español (Nativo) | Inglés (B2 Upper-Intermediate - Certificado EF SET).
 - 📍 Venezuela — disponible para trabajo remoto.
 
@@ -38,6 +42,13 @@ Ingeniero de Computación con **+5 años de experiencia** diseñando y construye
 
 ### 🛠️ Tech Stack / Stack Tecnológico
 
+#### **AI & Agentic Workflows**
+![Model Context Protocol](https://img.shields.io/badge/MCP-Model_Context_Protocol-18181B?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/LLM_Orchestration-412991?style=for-the-badge&logo=openai&logoColor=white)
+
 #### **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -46,7 +57,7 @@ Ingeniero de Computación con **+5 años de experiencia** diseñando y construye
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### **Backend & AI**
+#### **Backend**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -69,7 +80,4 @@ Ingeniero de Computación con **+5 años de experiencia** diseñando y construye
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanZabala21&layout=compact&theme=tokyonight&hide_border=true)
 
-
 </div>
-
----
