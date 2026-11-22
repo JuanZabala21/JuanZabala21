@@ -19,7 +19,7 @@ Ingeniero de Computación con **+5 años de experiencia** diseñando y construye
 - 🔭 Actualmente enfocado en arquitectura **Full-Stack** e integración de **IA / LLMs y agentes (MCP)** en flujos de desarrollo y producto.
 - 💻 Experiencia comprobada liderando interfaces complejas (**React, Angular, Vue.js**) y servicios robustos en el backend (**Java Spring Boot, Node.js, Python**).
 - 🌐 Español (Nativo) | Inglés (B2 Upper-Intermediate - EF SET Certified).
-- 📍 Basado en Venezuela — disponible para trabajo remoto.
+- 📍 Venezuela — disponible para trabajo remoto.
 
 ---
 
@@ -47,14 +47,5 @@ Ingeniero de Computación con **+5 años de experiencia** diseñando y construye
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 Actividad en GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO-GITHUB&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO-GITHUB&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
