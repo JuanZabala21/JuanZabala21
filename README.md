@@ -68,7 +68,7 @@ Ingeniero de Computación con **+5 años de experiencia** diseñando y construye
 <div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanZabala21&layout=compact&theme=tokyonight&hide_border=true)
-!
+
 
 </div>
 
