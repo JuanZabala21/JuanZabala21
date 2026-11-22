@@ -66,7 +66,10 @@ Ingeniero de Computación con **+5 años de experiencia** diseñando y construye
 ### 📊 GitHub Activity
 
 <div align="center">
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanZabala21&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO-GITHUB&show_icons=true&theme=tokyonight&hide_border=true)
+!
+
 </div>
 
 ---
